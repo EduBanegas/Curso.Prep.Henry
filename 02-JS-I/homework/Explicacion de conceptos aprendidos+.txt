@@ -1,4 +1,4 @@
-Variables: este nombre hace referencia a un espacio de la memoria que puede almacenar algun dato que por el hecho de ser una variable puede ir cambiando de valor, o si seria una constante este valor no va cambiar en todo el codigo.
+Variablee: este nombre hace referencia a un espacio de la memoria que puede almacenar algun dato que por el hecho de ser una variable puede ir cambiando de valor, o si seria una constante este valor no va cambiar en todo el codigo.
 
 Strings: los strings o cadenas de caracteres son, como su nombre lo indica una cadena de caracteres como por ejemplo una palabra o tambien puede ser una letra.
 
