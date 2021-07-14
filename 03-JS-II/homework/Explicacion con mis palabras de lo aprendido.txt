@@ -1,0 +1,9 @@
+For: esta formado como todo bucle con el nombre al principio "for" parentesis donde asignamos la variable, la condicion y la cantidad que se le agregara por cada que el ciclo de una vuelta, este se terminara solo cuando la condicion cerrada ente parentesis sea falsa, el codigo a ejecutar esta cerrada entre llaves.
+
+&&(and, y): Es la forma de comparar mas de un argumento como condicion
+
+
+||(or, o): Es la forma de analisar mas de un argumento como condicion 
+
+
+!(no): Es la forma de negar alguna condicion a cumplir
