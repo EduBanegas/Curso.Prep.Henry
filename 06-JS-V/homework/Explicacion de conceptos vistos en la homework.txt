@@ -1,0 +1,3 @@
+Prototype : prototipo es una redireccion a metodos de una clase, pueden ser podrios de esta o pueden ser heredados de otras clases(funciones creadoras).
+
+Contructores : par clave(propiedad)-valor de las clases que como los prototype pueden ser heredados o pueden ser de la misma funcion creadora.
