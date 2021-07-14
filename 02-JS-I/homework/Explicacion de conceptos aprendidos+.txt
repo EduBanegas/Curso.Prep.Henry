@@ -1,0 +1,12 @@
+Variables: este nombre hace referencia a un espacio de la memoria que puede almacenar algun dato que por el hecho de ser una variable puede ir cambiando de valor, o si seria una constante este valor no va cambiar en todo el codigo.
+
+Strings: los strings o cadenas de caracteres son, como su nombre lo indica una cadena de caracteres como por ejemplo una palabra o tambien puede ser una letra.
+
+Funciones: Las funciones tienen las mismas propiedades que un objeto, por lo tanto podemos llamarlas cuando las necesitemos y las veces que sea necesario, estan pueden contener parametros(valores que les pasamos con los cuales trabajan) o no, tambien pueden devolver un valor mediante "return" o no devolver nada, si quisiera devolver un valor fuera de la funcion, este valor tendria que ir dirigido a una variable para que sea parte del alcance(scope) global.
+
+Valores booleanos: estos valores vienen dados de la logica booleana, o sea que solo hay dos opciones tales como, activado o desactivado, prendido o apagado o lo que usaremos en el lenguaje de programacion, false(falso) o true(verdadero).
+
+
+
+
+
