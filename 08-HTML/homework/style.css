@@ -1,0 +1,61 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    
+}
+
+
+
+.divClass{
+    color: green;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    background-color:black;
+
+}
+
+#margen2 {
+    border: 5px solid green;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+}
+
+
+
+#thirdDiv{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    margin-top: 20px;
+    padding: 50px;
+    border: 5px solid green;
+    height: 900px;
+    width: 500px;
+
+}
+
+#thirdDiv ul{
+    display: flex;
+    flex-direction: column;
+}
+
+#thirdDiv ul li {
+    margin: 20px 20px 0px 0px;
+}
+
+#spanid {
+    font-size: 18px;
+}
+
+a{
+    font-size:25px;
+    color:rgb(69, 69, 149);
+}
+
+
