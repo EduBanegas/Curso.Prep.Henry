@@ -7,32 +7,97 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
-
+    display: block;
+    text-align: center;
 }
 
 
 /* Ejercicio 2: Posicionar el header */
 
 /* Acá va tu código */
-
+#ejercicioDos {
+    display: none;
+}
 
 
 /* Ejercicio 3: */
 
 /* Acá va tu código */
+#ejercicioTres {
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+
 
 
 
 /* Ejercicio 4: */
 
 /* Acá va tu código */
+#ejercicioCuatro {
+    display: flex;
+    position: fixed;
+    top: 0px;
+    left: 0px;
 
+}
 
 
 /* Ejercicio 5: */
 
 /* Acá va tu código */
+#ejercicioCinco {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
 
 
 
 /* Ejercicio 6. */
+#ejercicioCinco {
+    position: relative;
+    flex-direction: row-reverse;
+}
+
+
+/* Ejercicio 7 */
+#ejercicioSiete {
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+
+#elementoUno {
+    visibility: hidden;
+}
+
+#elementoDos {
+    display: flex;
+    position: relative;
+    left: 200px;
+    bottom: 10%;
+}
+
+#elementoTres {
+    display: flex;
+    position: relative;
+    left: 300px;
+    bottom:50px;
+}
+
+#elementoCuatro{
+    display: none;
+}
+
+/* Agregamos un margen en el inico ya que hice que el header se sobreponga a todo y se muestre
+en todo momento, asi que agregue un espaciado para que siga viendo todo el contenido que se via antes 
+y el header no tape nada*/
+main{
+    margin-top: 100px;
+}
